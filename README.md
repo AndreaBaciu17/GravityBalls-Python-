@@ -5,7 +5,7 @@
 **Contact:** baciuandrea04@gmail.com  
 
 ## Description
-**Description:** Jump into the falling world of Gravity Balls! 🎈 Click to make a ball appear, and watch them fall gracefully down the screen. See how long you can last in this fun and addictive game!
+Jump into the falling world of Gravity Balls! 🎈 Click to make a ball appear, and watch them fall gracefully down the screen. See how long you can last in this fun and addictive game!
 
 ## Features
 - **Multiple Balls:** Enjoy the challenge of keeping track of numerous balls as they drop from wherever you click on the screen.
