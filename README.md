@@ -16,19 +16,19 @@ Jump into the falling world of Gravity Balls! 🎈 Click to make a ball appear, 
  
 ## How to Run the Code
 1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/AndreaBaciu17/GravityBalls-Python.git
-   cd GravityBalls-Python
+   ```
+   git clone https://github.com/AndreaBaciu17/GravityBalls-Python-.git
+   cd GravityBalls-Python-
    ```
 
 2. **Install Pygame:**
    Make sure you have Python installed on your machine. Then install the Pygame module using pip:
-   ```bash
+   ```
    pip install pygame
    ```
 
 3. **Run the Game:**
    Ensure that the `gravity_ball.png` image is in the same directory as your code. Then run the Python script:
-   ```bash
+   ```
    python main.py
    ```
